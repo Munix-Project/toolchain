@@ -1,5 +1,5 @@
 # toolchain
-Configuration and Build tools for the Munix Kernel and Operating System Helios
+Configuration and Build tools for the Munix Kernel and Operating System Helios.
 
 After entering the repository folder, simply type:
 ```{r, engine='bash', count_lines}

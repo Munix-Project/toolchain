@@ -1,4 +1,4 @@
-#! /bin/sh
+#!/bin/sh
 
 # Start Vim on a copy of the tutor file.
 

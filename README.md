@@ -6,3 +6,6 @@ After entering the repository folder, simply type:
 munix-toolchain/toolchain-build.sh
 ```
 And the cross compiler including the libraries and patches will be built and copied into the folder 'munix-hdd', from where the system should boot up from.
+
+# License
+See LICENSE.md
